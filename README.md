@@ -8,12 +8,11 @@ Check out some of my projects ⚡
 - [Bear's Blooms](https://bearsblooms.com)  <sub>Your local meal-kit but for flowers</sub>
 - [Hygge List](https://hyggelist.com)  <sub>Simply create and share lists</sub>
 
-Some other stuff I've worked on:
-- [My ECE Registry](https://myeceregistry.gov.bc.ca/) <sub>Streamlines ECE certification, improves transparency for applicants and reduces wait times</sub>
-
 ## Most used languages and frameworks 💻  
+- JS/TS
 - Vue.js and Nuxt.js 
-- Python and Django / Django Rest Framework 🐍
+- Python
+- Django / Django Rest Framework 🐍
 - Golang 
 - C# and .NET 
 - Ruby and Ruby on Rails 💎
